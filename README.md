@@ -12,8 +12,8 @@ Hi, I'm Winlord, a data analyst based in Iloilo City, Philippines. I got into an
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [Excel — Metro Manila Real Estate Analysis](#excel--metro-manila-real-estate-analysis)
-  - [SQL + Tableau — Olist E-Commerce Performance Analysis](#sql--tableau--olist-e-commerce-performance-analysis)
+  - [Metro Manila Real Estate Analysis](#metro-manila-real-estate-analysis)
+  - [Olist E-Commerce Performance Analysis](#olist-e-commerce-performance-analysis)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
