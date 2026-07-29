@@ -25,7 +25,7 @@ Hi, I'm Winlord, a data analyst based in Iloilo City, Philippines. I got into an
 
 ### Metro Manila Real Estate Analysis
 
-**Repository:** [github.com/wdlweste/data-analytics-portfolio/tree/main/01_metro_manila_real_estate](https://github.com/wdlweste/data-analytics-portfolio/tree/main/01_metro_manila_real_estate)
+**Repository:** [github.com/wdlweste/data-analytics-portfolio/tree/main/01_metro_manila_real_estate](https://github.com/wdlweste/data-analytics-portfolio/tree/main/metro_manila_real_estate)
 
 **Business Question:** If a buyer has around ₱15 million to spend on a property in Metro Manila, which city gives the best value — and what would they actually get for that budget?
 
@@ -50,7 +50,7 @@ Hi, I'm Winlord, a data analyst based in Iloilo City, Philippines. I got into an
 
 ### Olist E-Commerce Performance Analysis
 
-**Repository:** [github.com/wdlweste/data-analytics-portfolio/tree/main/02_olist_ecommerce](https://github.com/wdlweste/data-analytics-portfolio/tree/main/02_olist_ecommerce)
+**Repository:** [github.com/wdlweste/data-analytics-portfolio/tree/main/02_olist_ecommerce](https://github.com/wdlweste/data-analytics-portfolio/tree/main/olist_ecommerce)
 
 **Dashboard:** [Olist E-Commerce Performance Dashboard](https://public.tableau.com/app/profile/winlord.del.oeste/viz/OlistE-CommercePerformanceDashboard_17845301007780/Dashboard1)
 
